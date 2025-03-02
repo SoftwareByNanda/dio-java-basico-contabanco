@@ -15,10 +15,6 @@ public class ContaTerminal{
         // após scanner.nextInt() para consumir o
         // caractere pendente antes de pedir o nome do cliente:
 
-
-
-
-        
         System.out.println("Digite o seu nome completo: ");
         String nomeCliente = scanner.nextLine();
 
